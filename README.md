@@ -4,12 +4,16 @@
 
 <p align="center">
   <a href="https://leandrobatistadiaz.github.io/MyPortfolio/">
-    <img src="https://leandrobatistadiaz.github.io/MyPortfolio/og.png" alt="Leandro Batista — portfolio de Software Engineer" width="900" />
+    <img src="https://leandrobatistadiaz.github.io/MyPortfolio/og.png" alt="Leandro Batista — portfolio de Software Engineer" width="680" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://leandrobatistadiaz.github.io/MyPortfolio/"><strong>🚀 Explorar mi portfolio →</strong></a>
+  &nbsp;&nbsp;
+  <a href="https://leandrobatistadiaz.github.io/MyPortfolio/">
+    <img src="https://img.shields.io/badge/Ver%20Portfolio-0A66C2?style=for-the-badge&logo=rocket&logoColor=white" alt="Ver Portfolio" />
+  </a>
   &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/leandro-b-d/">LinkedIn</a>
 </p>

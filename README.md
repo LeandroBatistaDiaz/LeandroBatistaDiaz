@@ -20,9 +20,9 @@ My experience includes warehouse management, vehicle-backed lending, clinical bi
 ### Featured work
 
 - [Portfolio](https://leandrobatistadiaz.github.io/MyPortfolio/) — anonymized enterprise case studies and technical background.
-- [Clean Architecture Product CRUD](https://github.com/LeandroBatistaDiaz/Clean-Architecture-ProductCRUD) — CRUD example organized around Clean Architecture.
-- [Warehouse Clean Architecture](https://github.com/LeandroBatistaDiaz/Almacen-CleanArchitecture) — warehouse-management application example.
-- [Modular Monolith Example](https://github.com/LeandroBatistaDiaz/ModularMonolithExample) — modular-monolith architecture exploration.
+- Enterprise systems — warehouse management, vehicle-backed lending, clinical billing and industrial ERP solutions.
+- Computer Vision — C++ software for automated product recognition at supermarket weighing stations.
+- Applied AI — Python contribution to a predictive aviation-safety solution.
 
 ### Contact
 

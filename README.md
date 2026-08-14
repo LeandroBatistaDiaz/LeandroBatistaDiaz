@@ -2,13 +2,27 @@
 
 ## Software Engineer · C#/.NET · C++ Computer Vision · Python/AI
 
-> **[Te invito a ver mi portafolio: te encantarán los proyectos que tengo allí →](https://leandrobatistadiaz.github.io/MyPortfolio/)**
+<p align="center">
+  <a href="https://leandrobatistadiaz.github.io/MyPortfolio/">
+    <img src="https://leandrobatistadiaz.github.io/MyPortfolio/og.png" alt="Leandro Batista — portfolio de Software Engineer" width="900" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leandrobatistadiaz.github.io/MyPortfolio/"><strong>🚀 Explorar mi portfolio →</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/leandro-b-d/">LinkedIn</a>
+</p>
 
 Software Engineer focused on backend development and enterprise applications. I turn business requirements into maintainable software, from domain modeling and data access to APIs, integration and functional validation.
 
 My experience includes warehouse management, vehicle-backed lending, clinical billing, industrial ERP systems and computer-vision software for automated product recognition.
 
-### Core technologies
+### Technologies I use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,python,angular,blazor,mssql,docker,git,github&perline=10" alt="C#, .NET, C++, Python, Angular, Blazor, SQL Server, Docker, Git and GitHub" />
+</p>
 
 - C#, .NET 8, ASP.NET Core and REST APIs
 - SQL Server and Entity Framework Core
@@ -28,11 +42,10 @@ My experience includes warehouse management, vehicle-backed lending, clinical bi
 
 - [LinkedIn](https://www.linkedin.com/in/leandro-b-d/)
 - [Portfolio](https://leandrobatistadiaz.github.io/MyPortfolio/)
+- [Email](mailto:leandrobatistadiaz@gmail.com)
 
 Open to full-time Software Engineer, .NET Backend Developer and Full-Stack .NET opportunities in Spain.
 
 ---
-
-### About me
 
 I enjoy building software that makes complex operational processes easier to understand, maintain and evolve. I am especially interested in backend architecture, enterprise systems, applied AI and collaborative product delivery.

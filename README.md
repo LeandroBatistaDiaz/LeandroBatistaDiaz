@@ -2,20 +2,33 @@
 
 ## Software Engineer · C#/.NET · C++ Computer Vision · Python/AI
 
-<p align="center">
-  <a href="https://leandrobatistadiaz.github.io/MyPortfolio/">
-    <img src="https://leandrobatistadiaz.github.io/MyPortfolio/og.png" alt="Leandro Batista — portfolio de Software Engineer" width="680" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="56%">
+      <a href="https://leandrobatistadiaz.github.io/MyPortfolio/">
+        <img src="https://leandrobatistadiaz.github.io/MyPortfolio/og.png" alt="Leandro Batista — portfolio de Software Engineer" width="100%" />
+      </a>
+    </td>
+    <td valign="top" width="44%">
+      <p align="center"><strong>GitHub stats</strong></p>
+      <p align="center">
+        <a href="https://github.com/LeandroBatistaDiaz?tab=followers"><img src="https://img.shields.io/github/followers/LeandroBatistaDiaz?style=for-the-badge&logo=github&label=Seguidores" alt="Seguidores de GitHub" /></a><br />
+        <a href="https://github.com/LeandroBatistaDiaz?tab=repositories"><img src="https://img.shields.io/github/repos/LeandroBatistaDiaz?style=for-the-badge&logo=github&label=Repos%20públicos" alt="Repositorios públicos" /></a><br />
+        <a href="https://github.com/LeandroBatistaDiaz/MyPortfolio"><img src="https://img.shields.io/github/commit-activity/y/LeandroBatistaDiaz/MyPortfolio?style=for-the-badge&logo=github&label=Actividad" alt="Actividad anual del portfolio" /></a><br />
+        <a href="https://github.com/LeandroBatistaDiaz/MyPortfolio"><img src="https://img.shields.io/github/stars/LeandroBatistaDiaz/MyPortfolio?style=for-the-badge&logo=github&label=Estrellas" alt="Estrellas del portfolio" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://leandrobatistadiaz.github.io/MyPortfolio/"><strong>🚀 Explorar mi portfolio →</strong></a>
-  &nbsp;&nbsp;
   <a href="https://leandrobatistadiaz.github.io/MyPortfolio/">
     <img src="https://img.shields.io/badge/Ver%20Portfolio-0A66C2?style=for-the-badge&logo=rocket&logoColor=white" alt="Ver Portfolio" />
   </a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/leandro-b-d/">LinkedIn</a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/leandro-b-d/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 Software Engineer focused on backend development and enterprise applications. I turn business requirements into maintainable software, from domain modeling and data access to APIs, integration and functional validation.

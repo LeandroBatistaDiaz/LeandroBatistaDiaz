@@ -2,6 +2,8 @@
 
 ## Software Engineer · C#/.NET · C++ Computer Vision · Python/AI
 
+> **[Te invito a ver mi portafolio: te encantarán los proyectos que tengo allí →](https://leandrobatistadiaz.github.io/MyPortfolio/)**
+
 Software Engineer focused on backend development and enterprise applications. I turn business requirements into maintainable software, from domain modeling and data access to APIs, integration and functional validation.
 
 My experience includes warehouse management, vehicle-backed lending, clinical billing, industrial ERP systems and computer-vision software for automated product recognition.

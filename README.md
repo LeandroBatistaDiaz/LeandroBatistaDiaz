@@ -1,6 +1,6 @@
 # Leandro Batista
 
-## Software Engineer · C#/.NET · C++ Computer Vision · Python/AI
+## Software Engineer · C#/.NET · C++  · Python/AI
 
 <p align="center">
   <a href="https://leandrobatistadiaz.github.io/MyPortfolio/">
